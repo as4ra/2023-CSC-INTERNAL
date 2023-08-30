@@ -1,0 +1,90 @@
+header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+} 
+
+nav {
+    background-color: violet;
+    padding: 0.5rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.feature, .extension, .documentation {
+    padding: 2rem;
+    border: 1px solid #ddd;
+    margin: 1rem;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+
+body {
+    font-family: Dancing 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.home-section {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.rule-section {
+    background-color: violet;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    color: peachpuff;
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+}
+.sticky-note {
+    background-color: #ffcc00;
+    padding: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    width: 250px;
+    margin: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
